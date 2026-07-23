@@ -7,11 +7,11 @@
     "message": "",
     "expiresAt": "2026-08-22T12:16:03.0000000+00:00",
     "graceUntil": "2026-08-23T12:16:03.0000000+00:00",
-    "activeRelease": "2026.07.23.0100",
-    "manifestUrl": "https://c1u2o3n4g-alt.github.io/nromoon/releases/2026.07.23.0100/manifest.json",
-    "manifestSha256": "7f05f1d0cdc3d62f3f1af55cdb40dd8ed9ab3903c9848c88992726ac48ba4d8b",
+    "activeRelease": "2026.07.23.0039",
+    "manifestUrl": "https://c1u2o3n4g-alt.github.io/nromoon/releases/2026.07.23.0039/manifest.json",
+    "manifestSha256": "2cd6b9afdf796b12f7e9d19db764bd78b60e9767f4cb48c6025a9c3ef91a2817",
     "minimumClientVersion": "",
     "forceReload": false,
-    "revision": 1784740765237,
-    "updatedAt": "2026-07-22T17:19:25.2374776+00:00"
+    "revision": 1784767936356,
+    "updatedAt": "2026-07-23T00:52:16.3566579+00:00"
 }
