@@ -3,15 +3,15 @@
     "modId": "7c1180d1-29dd-4b57-bc4a-bd3526c1dcb8",
     "companyName": "NROMOONC",
     "displayName": "NRO MOON",
-    "status": "active",
+    "status": "expired",
     "message": "",
-    "expiresAt": "2026-08-22T12:16:03.0000000+00:00",
-    "graceUntil": "2026-08-23T12:16:03.0000000+00:00",
+    "expiresAt": "2026-07-22T12:16:03.0000000+00:00",
+    "graceUntil": "2026-07-23T12:16:03.0000000+00:00",
     "activeRelease": "2026.07.23.0339",
     "manifestUrl": "https://c1u2o3n4g-alt.github.io/nromoon/releases/2026.07.23.0339/manifest.json",
     "manifestSha256": "3e98643daa55d97649829ad45cbb05834be9d6384bbef48a22a2e363cd62185d",
     "minimumClientVersion": "",
     "forceReload": false,
-    "revision": 1784778418145,
-    "updatedAt": "2026-07-23T03:46:58.1459033+00:00"
+    "revision": 1784780886170,
+    "updatedAt": "2026-07-23T04:28:06.1705368+00:00"
 }
